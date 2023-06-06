@@ -1,2 +1,2 @@
 # MX-VI
-A minamal python text editor
+A Python File Sorter For Linux
